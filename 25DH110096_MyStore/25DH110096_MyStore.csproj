@@ -228,6 +228,7 @@
     <Content Include="Areas\Admin\Views\Categories1\Details.cshtml" />
     <Content Include="Areas\Admin\Views\Categories1\Edit.cshtml" />
     <Content Include="Areas\Admin\Views\Categories1\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Categories1\partialview_createEditCate.cshtml" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
